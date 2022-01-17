@@ -120,6 +120,7 @@ a{
      text-decoration: underline;
 }
 .menu_dropdown {
+     position: absolute;
   border-bottom: 1px solid #000000;
   border-top: 1px solid #000000;
   border-left: 1px solid #000000;
@@ -129,6 +130,7 @@ a{
   border-radius: 10px;
   display: none;
   font-size: 14px;
+  margin-left: -50px;
 }
 .punkt_1:hover a{
      color: red;
